@@ -1,0 +1,18 @@
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body {
+    background-color: gray;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif
+}
+
+.Nazor {
+    width: 200px;
+    border-radius: 50px;
+    box-shadow: 8px 6px 21px 5px rgba(0,0,0,0.97);
+}
+
+.con {
+    max-width: 1000px;
+     margin: auto;
+}
